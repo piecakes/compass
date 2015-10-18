@@ -1,7 +1,7 @@
 """
 A program that runs the hmc5883l compass.
 """
-from compass.compass import get_bearing
+from compass.compassls import get_bearing
 
 
 def main():
