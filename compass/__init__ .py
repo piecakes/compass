@@ -1,1 +1,1 @@
-from catnet.overwatch import start_overwatch
+from compass.compass import get_bearing
